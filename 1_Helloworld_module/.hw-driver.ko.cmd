@@ -1,0 +1,1 @@
+cmd_/home/priyansh/linux-kernel-module/1_Helloworld_module/hw-driver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/priyansh/linux-kernel-module/1_Helloworld_module/hw-driver.ko /home/priyansh/linux-kernel-module/1_Helloworld_module/hw-driver.o /home/priyansh/linux-kernel-module/1_Helloworld_module/hw-driver.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/priyansh/linux-kernel-module/3_kernel_to_user/kernel_user.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/priyansh/linux-kernel-module/3_kernel_to_user/kernel_user.ko /home/priyansh/linux-kernel-module/3_kernel_to_user/kernel_user.o /home/priyansh/linux-kernel-module/3_kernel_to_user/kernel_user.mod.o;  true

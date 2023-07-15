@@ -1,0 +1,1 @@
+cmd_/home/priyansh/linux-kernel-module/4_ioctl/ioctl.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/priyansh/linux-kernel-module/4_ioctl/ioctl.ko /home/priyansh/linux-kernel-module/4_ioctl/ioctl.o /home/priyansh/linux-kernel-module/4_ioctl/ioctl.mod.o;  true

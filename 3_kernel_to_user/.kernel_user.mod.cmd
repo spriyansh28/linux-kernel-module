@@ -1,0 +1,1 @@
+cmd_/home/priyansh/linux-kernel-module/3_kernel_to_user/kernel_user.mod := { echo  /home/priyansh/linux-kernel-module/3_kernel_to_user/kernel_user.o;  echo; } > /home/priyansh/linux-kernel-module/3_kernel_to_user/kernel_user.mod
